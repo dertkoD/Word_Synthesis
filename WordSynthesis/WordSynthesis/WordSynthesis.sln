@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordSynthesis", "WordSynthesis\WordSynthesis.csproj", "{A6A13A49-7D9A-49D4-87FA-10D73D9C1BCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6A13A49-7D9A-49D4-87FA-10D73D9C1BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6A13A49-7D9A-49D4-87FA-10D73D9C1BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6A13A49-7D9A-49D4-87FA-10D73D9C1BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6A13A49-7D9A-49D4-87FA-10D73D9C1BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32C11570-1D27-4A61-AB8E-25E666C4316F}
+	EndGlobalSection
+EndGlobal
